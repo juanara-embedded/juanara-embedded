@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Juan Antonio Rodríguez Alcaraz
+I'm an Electronics Engineering student from Mexico passionate about Embedded Systems, Edge AI, and intelligent electronic system design.
 
-<!--
-**juanara-embedded/juanara-embedded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Areas of Interest:
+- Embedded Systems
+- ESP32-S3
+- Edge AI
+- Firmware Development (C/C++)
+- PCB Design
+- Machine Learning on Microcontrollers (TinyML)
+- Digital Signal Processing (DSP)
+- Digital Image Processing
 
-Here are some ideas to get you started:
+Currently Learning:
+- ESP-IDF
+- TinyML
+- TensorFlow Lite for Microcontrollers
+- Advanced Digital Signal Processing
+- Embedded Software Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goal:
+Design professional embedded systems that combine hardware, firmware and artificial intelligence.
+
